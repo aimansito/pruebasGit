@@ -11,6 +11,10 @@ package com.mycompany.pruebasgit;
 public class PruebasGit {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hola");
+        
+        System.out.println("Hoy");
+        
+        System.out.println("M");
     }
 }
